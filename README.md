@@ -10,4 +10,3 @@ Sistem pemantauan stok sederhana yang dibangun dengan **Rust** untuk mempelajari
 - **Colorful CLI:** Output terminal berwarna menggunakan ANSI escape codes.
 
 ## 📸 Preview Aplikasi
-![Simulasi Run](./Screenshot_20260105-103348.png)
