@@ -8,3 +8,6 @@ Sistem pemantauan stok sederhana yang dibangun dengan **Rust** untuk mempelajari
 - **Thread Safety:** Proteksi data menggunakan `Arc<Mutex<T>>`.
 - **Error Handling:** Implementasi `Result` dan `Option` yang aman.
 - **Colorful CLI:** Output terminal berwarna menggunakan ANSI escape codes.
+
+## 📸 Preview Aplikasi
+![Simulasi Run](./Screenshot_20260105-103348.png)
